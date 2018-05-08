@@ -1,2 +1,3 @@
 # hello-world
-Solamente otro repositorio
+Hello folks
+Martin here, I like .NEt and C#.
